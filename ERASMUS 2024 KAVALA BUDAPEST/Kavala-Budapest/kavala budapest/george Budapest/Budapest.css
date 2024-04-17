@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body{
+    background-image: url(Képernyőkép\ 2024-04-16\ 170955.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "Raleway", sans-serif;
+}
+
+.titleb{
+    text-align:center;
+border:2px solid black;
+width:120px;
+font-size:30px;
+margin-left:500px;
+
+}
+
+.bp{
+    border:2px solid black;
+}
+
+.radius{
+    margin-top:50px;
+}
+
+
+
+
+
+
+
+
+
